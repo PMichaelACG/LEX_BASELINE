@@ -1,0 +1,9 @@
+id	input
+sample	sample.qc
+checks	tests/checks.qc
+empty	tests/empty.qc
+comment_eof	tests/comment_eof.qc
+keywords	tests/keywords.qc
+integers	tests/integers.qc
+whitespace	tests/whitespace.qc
+recovery	tests/recovery.qc

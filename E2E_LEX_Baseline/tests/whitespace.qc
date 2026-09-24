@@ -1,0 +1,3 @@
+	let
+// hidden int + @
+print
